@@ -12,7 +12,9 @@ The camera start's filming and the live broadcast is desplayed on a screen durin
 the moment a goal is scored few things occur simultaniously:
 - The score is updated and presented on the RGB LED surface according to the teams colors.
 - The live broadcast stops and a replay of the last move is displayed.
-- Israeli football broadcaster is played through speakers screaming in Hebrew "What an astonishing goal"
+- Israeli football broadcaster is played through speakers screaming in Hebrew "What an astonishing goal".
+
+
 Next, during the game you can hear the crowd of the leading team cheering and singing a song of the same team.
 When a team scores 10 goal the game is over.
 On the LED surface it will be written: "winner" and the score
